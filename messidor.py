@@ -249,6 +249,6 @@ def experimentation_module():
 
 startTime = import_lib.time.time()
 experimentation_module()
-print("-- Time duration in minutes:")
-print("%s"%((import_lib.time.time()-startTime)/60))
+print("-- Time duration:")
+print("%s"%((import_lib.time.time()-startTime)))
 print("-----------------")
