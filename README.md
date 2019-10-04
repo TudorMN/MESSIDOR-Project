@@ -5,7 +5,7 @@ Diabetic Macular Edema (DME) classification by using Convolutional Neural Networ
 The project considers two ways of classification.
 
 Multiclass approach using four classes:
--  0 (DME Free)
+-  0 (DME Absence)
 -  1 (Mild DME)
 -  2 (Moderate DME)
 -  3 (Severe DME)
